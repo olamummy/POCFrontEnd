@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POCFrontEnd", "POCFrontEnd.csproj", "{B32D8116-1C37-452A-90D5-076BD2963488}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{59C25621-17DF-4731-B2DF-AB747005A9DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32D8116-1C37-452A-90D5-076BD2963488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32D8116-1C37-452A-90D5-076BD2963488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32D8116-1C37-452A-90D5-076BD2963488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32D8116-1C37-452A-90D5-076BD2963488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39569137-9103-4D6C-ACE8-A481E3291C65}
+	EndGlobalSection
+EndGlobal
